@@ -4,7 +4,7 @@ Welcome to the **Launch Pad Music App**! Developed by Sagnik Bhattacharya from C
 
 ## Features
 
-- **Interactive Sound Pads**: Engage with music creation through pads that play unique sounds.
+- **Interactive Sound Pads**: Engage with music creation through pads that play unique sounds. 
 - **Flutter Learning Experience**: Suitable for both beginners and advanced developers.
 - **Cross-Platform Functionality**: Designed for Android, iOS, and Web.
 - **User-Friendly Interface**: Easy navigation and enjoyable user experience.
